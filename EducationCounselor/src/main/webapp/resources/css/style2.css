@@ -1,0 +1,54 @@
+label.welcome {
+    padding: 30px;
+    font-size: 21px;
+}
+
+
+.container-fluid.bg {
+	
+		background-repeat: no-repeat;
+	width: 100%;
+
+}
+
+p.fix
+{
+	color: #fff;
+	font-size: 25px;
+}
+
+.form-container
+{
+	    color: white;
+	border:0px solid #fff;
+	padding: 50px 60px; 
+	margin-top: 2vh;
+	-webkit-box-shadow: -1px -1px 32px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -1px 32px 10px rgba(0,0,0,0.75);
+box-shadow: -1px -1px 32px 10px rgba(0,0,0,0.75);
+}
+
+
+form.form-containerr {
+	
+		    color: white;
+	border:0px solid #fff;
+	padding: 50px 60px; 
+	margin-left:100px;
+	margin-top: 5vh;
+	-webkit-box-shadow: -1px -1px 32px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -1px 32px 10px rgba(0,0,0,0.75);
+box-shadow: -1px -1px 32px 10px rgba(0,0,0,0.75);
+}
+
+
+
+.text-black
+{
+	color:black;
+}
+
+.question {
+    padding-top: 35px;
+    padding-left: 274px;
+}
